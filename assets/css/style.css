@@ -1,0 +1,26 @@
+/*
+ * Stylesheet for UI plugin "Host Info"
+ *	Created by Olivier Willems 
+ *	@ http://willemso.com/
+ *	Please do not copy code without credits..
+ */
+
+#HI_table {
+    margin-top:    20px;
+    padding:       10px;
+}
+ 
+#HI_table thead th {
+    font-size: 15px;
+    height:    40px;
+}
+ 
+#HI_table tbody td {
+    width:70%
+    height: 30px;
+    padding: 5px;
+}
+ 
+#HI_table tbody tr.nietdeelbaar{
+    background: #fff;
+}
